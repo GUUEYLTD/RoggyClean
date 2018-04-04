@@ -1,0 +1,69 @@
+.cms-button.cms-border, .cms-button.cms-dark-border {
+    border-color: #FAD00C;
+    color: #2a2b2f;
+    background-color: #FAD00C;
+}
+.cms-button.cms-border:hover, .cms-button.cms-dark-border:hover, .cms-button.cms-border:focus, .cms-button.cms-dark-border:focus {
+    border-color: #FAD00C;
+    color: #2a2b2f;
+    background-color: #FAD00C;
+}
+
+.cshero-footer-top-1 .widget {
+    font-family: "asap", Arial, Helvetica, sans-serif;
+}
+
+.main-navigation .menu-main-menu li a {
+	font-family: "asap", Arial, Helvetica, sans-serif;
+	color: #2a2b2f;
+	line-height: 20px;
+	font-size: 17px;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.opt-page-sticky .cshero-header-logo img {
+    height: 64px;
+}
+
+
+.elementy-footer-wrap .widget .wg-title {
+    font-family: "asap", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 16px 0 21px;
+    line-height: 25px;
+}
+.p-140-cont {
+    padding-top: 70px;
+    padding-bottom: 140px;
+}
+
+.cshero-footer-top-1 .widget {
+    font-family: "asap", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.elementy-footer-wrap .widget .wg-title {
+    font-family: "asap", Arial, Helvetica, sans-serif;
+    color: #525251;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 16px 0 21px;
+    line-height: 25px;
+}
+
+input, textarea, select, .login-select, .form-control {
+    border: none;
+    border-bottom: 1px solid #a6a7a9;
+    border-top: 1px solid #a6a7a9;
+    border-left: 1px solid #a6a7a9;
+    border-right: 1px solid #a6a7a9;
+    border-radius: 3px;
+    background: transparent;
+    color: #2a2b2f;
+    font-size: 14px;
+    margin: 0;
+    outline: medium none;
+    padding: 8px 20px 8px 0;
+}
